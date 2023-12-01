@@ -7,7 +7,7 @@ Junior Frontend-developer
 I've been learning to code for 5 month at the Hexlet programming online-school
 
 * 🌍  I'm based in Moscow
-* 🖥️  See my portfolio at [here](http://https://github.com/JS-Demi)
+* 🖥️  See my portfolio at [here](https://github.com/JS-Demi)
 
 <!--
 **JS-Demi/JS-Demi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
