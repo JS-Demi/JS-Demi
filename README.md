@@ -1,4 +1,7 @@
-Hi, I'm Dmitry 👋 =======================  Welcome to my profile! I’m a student of Hexlet Online Programming School.  * 🌍  I'm based in Moscow
+Hi, I'm Dmitry 👋 
+=======================  
+Welcome to my profile! I’m a student of Hexlet Online Programming School. 
+* 🌍  I'm based in Moscow
 
 ### Skills  
 
