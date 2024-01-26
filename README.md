@@ -1,6 +1,8 @@
 Hi, I'm Dmitry 👋 
 =======================  
-[![Telegram badge](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Miracle_JS)
+<h3>
+  <a href="https://t.me/Miracle_JS" rel="noreferrer"><img src="https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white" width="100" heigth="100" alt="Telegram"></a>
+</h3>
 
 Welcome to my profile! I’m a student of Hexlet Online Programming School. 
 - 🌱 I’m currently learning TypeScript and React
