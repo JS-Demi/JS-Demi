@@ -3,7 +3,7 @@
 
 <p>
   📣 <strong>Contact with me:</strong><br/>
-  <a href="mailto:dmt.ivanov96@gmail.com"."><img src="https://cdn.simpleicons.org/gmail" height="42" width="42"/></a>
+  <a href="mailto:dmt.ivanov96@gmail.com"."><img src="https://cdn.simpleicons.org/gmail" height="42" width="42"/></a> 
   <a href="https://t.me/Miracle_JS"><img src="https://cdn.simpleicons.org/telegram" height="42" width="42"/></a>
   <a href"hhtps:"><img src="https://cdn.simpleicons.org/linkedin" height="42" width="42"/></a>
   <a href=""><img src="https://cdn.simpleicons.org/habr" height="42" width="42"/></a>
@@ -33,3 +33,6 @@ Welcome to my profile! I’m a student of Hexlet Online Programming School.
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="36" height="36">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="MacOS" alt="MacOS" width="36" height="36">&nbsp;
 </p>
+
+
+## My experiance:
