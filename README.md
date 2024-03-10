@@ -1,16 +1,17 @@
 # Hi, I'm Dmitry 👋 
 
-
-<p>
-  📣 <strong>Contact with me:</strong><br/>
+  ## Contact with me:
+   
+ <p>
   <a href="mailto:dmt.ivanov96@gmail.com"."><img src="https://cdn.simpleicons.org/gmail" height="42" width="42"/></a> 
   <a href="https://t.me/Miracle_JS"><img src="https://cdn.simpleicons.org/telegram" height="42" width="42"/></a>
   <a href"hhtps:"><img src="https://cdn.simpleicons.org/linkedin" height="42" width="42"/></a>
   <a href=""><img src="https://cdn.simpleicons.org/habr" height="42" width="42"/></a>
 </p>
 
+
 Welcome to my profile! I’m a student of Hexlet Online Programming School. 
-* ⚡ I'm currently learning TypeScript
+* ⚡ I'm currently learning React, Redux and TypeScript.
 
 
 ## 🛠 Stack:
@@ -35,3 +36,9 @@ Welcome to my profile! I’m a student of Hexlet Online Programming School.
 
 
 ## My experiance:
+
+I have completed 3 projects on vanilla JavaSctript:
+* ⚪ [Brain Games](https://github.com/JS-Demi/frontend-project-44) - A set of five console games that allow you to test your knowledge in the arithmetic and logical direction in a playful way.
+* 🔵 [Generator Differences](https://github.com/JS-Demi/frontend-project-46) - An assistant that generating the difference between two data structures.
+* 🔴 [RSS-aggregator](https://github.com/JS-Demi/RSS-aggregator) - A simple service for getting news from your favorite feeds. The list is automatically updated every 5 seconds, so you don't have to do something for see the latest news posts.
+* ⚫
