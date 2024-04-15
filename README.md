@@ -30,4 +30,4 @@ I have completed 3 projects on vanilla JavaSctript:
 * ⚪ [Brain Games](https://github.com/JS-Demi/frontend-project-44) - A set of five console games that allow you to test your knowledge in the arithmetic and logical direction in a playful way.
 * 🔵 [Generator Differences](https://github.com/JS-Demi/frontend-project-46) - An assistant that generating the difference between two data structures.
 * 🔴 [RSS-aggregator](https://github.com/JS-Demi/RSS-aggregator) - A simple service for getting news from your favorite feeds. The list is automatically updated every 5 seconds, so you don't have to do something for see the latest news posts.
-* ⚫ [Chat](https://github.com/JS-Demi/frontend-project-12) - Real-time chat, with the ability to register and communicate in real time between users
+* ⚫ [Chat](https://github.com/JS-Demi/frontend-project-12) - Real-time chat on React/Redux, with the ability to register and communicate in real time between users
