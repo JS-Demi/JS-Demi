@@ -6,7 +6,7 @@
   <a href="mailto:dmt.ivanov96@gmail.com"."><img src="https://cdn.simpleicons.org/gmail" height="42" width="42"/></a> 
   <a href="https://t.me/Miracle_JS"><img src="https://cdn.simpleicons.org/telegram" height="42" width="42"/></a>
   <a href"hhtps:"><img src="https://cdn.simpleicons.org/linkedin" height="42" width="42"/></a>
-  <a href=""><img src="https://cdn.simpleicons.org/habr" height="42" width="42"/></a>
+  <a href="https://career.habr.com/js-demi"><img src="https://cdn.simpleicons.org/habr" height="42" width="42"/></a>
 </p>
 
 
