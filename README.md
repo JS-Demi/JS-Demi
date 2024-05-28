@@ -47,7 +47,7 @@ Stack:
 - Модульный SCSS
 - Next-intl(i18n) 
 
-| 🌊 [EmployeesWebApp](https://github.com/JS-Demi/test-task-CODE-Trainee)
+| 🐋 [EmployeesWebApp](https://github.com/JS-Demi/test-task-CODE-Trainee)
 Веб приложение учета сотрудников компании, позволяющее моментально найти сотрудника используя фильтрацию или поиск
 
 Stack:
@@ -59,7 +59,7 @@ Stack:
 - Chakra-ui
 
 
-| 🌊 [Difference-calculator](https://github.com/JS-Demi/Difference-Calculator)
+ | 🐬 [Difference-calculator](https://github.com/JS-Demi/Difference-Calculator)
  Консольное приложение для вычисления отличий древовидных структур любой вложенности 
 
 Stack: 
@@ -68,7 +68,7 @@ Stack:
 - Полное покрытие тестами с помощью Jest
 
 
-| 🌊 [RSS-aggregator](https://github.com/JS-Demi/RSS-aggregator)
+| 💨 [RSS-aggregator](https://github.com/JS-Demi/RSS-aggregator)
 Веб-приложение для автоматического сбора сообщений из источников, экспортирующих в формате RSS, например, заголовки новостей, блогов, подкастов и видеохостингов.
 
 - JavaScript(ES6+) vanilla
