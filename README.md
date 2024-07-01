@@ -1,4 +1,4 @@
-# Hi, I'm Dmitry 👋 
+# Hi there👋 I'm a front-end developer
 
   ## Contact with me:
    
