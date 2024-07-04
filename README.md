@@ -1,77 +1,35 @@
-# Hi there👋 I'm a front-end developer
-
-  ## Contact with me:
-   
- <p>
-  <a href="mailto:dmt.ivanov96@gmail.com"."><img src="https://cdn.simpleicons.org/gmail" height="42" width="42"/></a> 
-  <a href="https://t.me/Miracle_JS"><img src="https://cdn.simpleicons.org/telegram" height="42" width="42"/></a>
+# Hi, I'm Dmitry👋 I'm a front-end developer 
+ <span>
+  <a href="https://t.me/Miracle_JS"><img src="https://cdn.simpleicons.org/telegram" height="42" width="42"/></a> &nbsp;&nbsp;
+  <a href="mailto:dmt.ivanov96@gmail.com"."><img src="https://cdn.simpleicons.org/gmail" height="42" width="42"/></a> &nbsp;&nbsp;
   <a href="https://career.habr.com/js-demi"><img src="https://cdn.simpleicons.org/habr" height="42" width="42"/></a>
-</p>
+</span>
 
 
-Welcome to my proile! 
-* ⚡ I'm currently searching for a position as a frontend developer, I am ready to consider proposals
+## My stack:
 
-## 🛠 Stack:
-
-###  Lang & Framework:
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind&perline=8)](https://skillicons.dev)
-
-### Tools:
-[![Tools](https://skillicons.dev/icons?i=sass,vite,webpack,git,figma,jest&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,css,sass,vite,webpack&perline=9)](https://skillicons.dev)
 
 
-## My experiance:
+## My projects:
+
+### Chat
+
+Chat for messaging between users in channels like a telegram, vk or Slack.
+
+🌐 [Live version](https://chat-ei7h.onrender.com) &nbsp;/&nbsp; 📕 [Repository](https://github.com/JS-Demi/Chat)
 
 
-| 🐳 [Slack](https://github.com/JS-Demi/Real-time-Chat)
-Веб-приложения чата, похожего на Slack, позволяет моментально обмениваться сообщениями между пользователями. 
+### RSS-aggregator
 
-Stack: 
-- ReactJS + Webpack
-- Redux Toolkit Query
-- react-router-dom
-- WebSockets
-- Адаптивная верстка 
-- SCSS
-- i18next
+Web app that allows users to access updates to websites in a standardized, computer-readable format
 
- | 🌊 [Profile](https://github.com/JS-Demi/nextjs-form-profile)
-Веб-приложение профиля с возможностью заполнения и отправки данных на сервер. 
-
-Stack:
-- TypeScript + Next.js
-- Zustand
-- Адаптивная верстка по макету Figma
-- Модульный SCSS
-- Next-intl(i18n) 
-
-| 🐋 [EmployeesWebApp](https://github.com/JS-Demi/test-task-CODE-Trainee)
-Веб приложение учета сотрудников компании, позволяющее моментально найти сотрудника используя фильтрацию или поиск
-
-Stack:
-
-- TypeScript + React + Vite
-- TanStack Router
-- TanStack Query
-- Zustand
-- Chakra-ui
+🌐 [Live version](https://rss-aggregator-omega.vercel.app) &nbsp;/&nbsp; 📕 [Repository](https://github.com/JS-Demi/RSS-aggregator)
 
 
- | 🐬 [Difference-calculator](https://github.com/JS-Demi/Difference-Calculator)
- Консольное приложение для вычисления отличий древовидных структур любой вложенности 
+### Difference-calculator 
 
-Stack: 
+App for calculating the differences between files of any nesting. Fully covered by Jest tests
 
-- JavaScript(ES6+) vanilla
-- Полное покрытие тестами с помощью Jest
+📕 [Repository](https://github.com/JS-Demi/Difference-Calculator)
 
-
-| 💨 [RSS-aggregator](https://github.com/JS-Demi/RSS-aggregator)
-Веб-приложение для автоматического сбора сообщений из источников, экспортирующих в формате RSS, например, заголовки новостей, блогов, подкастов и видеохостингов.
-
-- JavaScript(ES6+) vanilla
-- Все фичи созданы методом манипуляции DOM
-- Автоматическая подгрузка новых фидов на чистом JS
-- i18next 
